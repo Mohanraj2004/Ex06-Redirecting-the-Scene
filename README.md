@@ -26,8 +26,8 @@ Step 7
 Print the Output and end the program.
 
 ## Program:
-## DEVELOPED BY: M.PAVITHRA
-## REGISTER NUMBER : 212222100032
+## DEVELOPED BY: MOHANRAJ S
+## REGISTER NUMBER : 212221230065
 
 ## CUBE PLAYER:
 
